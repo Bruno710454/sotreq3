@@ -3,7 +3,6 @@ function teste() {
 }
 
 function gerar(){
-    alert('TESTANDO')
     var nome1 = document.getElementById("nome").value
     var matricula1 = document.getElementById("matricula").value
     var cargo1 = document.getElementById("cargo").value
